@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anushka-013
 - 👀 I’m interested in Volleyball, Basketball, Reading
 - 🌱 I’m currently pursuing B.tech CSE from Amity University
-- 📝 My skills are: Java, Python, C++, C, HTML 
+- 📝 My skills are: Java, Python, C++, HTML, CSS, Javascript 
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me : through Email: anushkatomar013@gmail.com
   
